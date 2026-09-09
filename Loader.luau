@@ -9,7 +9,7 @@ local lplr = game:GetService("Players").LocalPlayer
 local market = game:GetService("MarketplaceService")
 local info = market:GetProductInfo(PlaceId)
 local games = {
-    [9825515356] = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Hood%20Customs.luau', -- Hood Customs
+    [9825515356,138995385694035,79729621165428,80567999110374] = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Hood%20Customs.luau', -- Hood Customs
 
 
 if games[PlaceId] then 
