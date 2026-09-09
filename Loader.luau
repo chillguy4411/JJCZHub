@@ -16,5 +16,5 @@ if games[PlaceId] then
     lib:Notify('Supported game loading: ' .. info.Name)
     loadstring(game:HttpGet(games[PlaceId]))()
 else
-    lib:Notify('Game not supported: ' .. info.Name)
+    lplr:Kick('Game not supported: ' .. info.Name)
 end
