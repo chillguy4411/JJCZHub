@@ -16,18 +16,6 @@ local games = {
         ids = {9825515356, 138995385694035, 79729621165428, 80567999110374},
         url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Hood%20Customs.luau',
         name = 'Hood Customs'
-    },
-
-    {
-        ids = {2788229376, 4872321990},
-        url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Blox%20Fruits.luau',
-        name = 'Blox Fruits'
-    },
-
-    {
-        ids = {606849621, 155615604},
-        url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Arsenal.luau',
-        name = 'Arsenal'
     }
 }
 
