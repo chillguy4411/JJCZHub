@@ -16,6 +16,11 @@ local games = {
         ids = {9825515356, 138995385694035, 79729621165428, 80567999110374},
         url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Hood%20Customs.luau',
         name = 'Hood Customs'
+    },
+    {
+        ids = {13772394625},
+        url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Hood%20Customs.luau',
+        name = 'Blade Ball'
     }
 }
 
