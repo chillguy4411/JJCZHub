@@ -18,10 +18,10 @@ local games = {
         name = 'Hood Customs'
     },
     {
-        ids = {13772394625},
-        url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/Blade%20Ball',
-        name = 'Blade Ball'
-    }
+        ids = {100068273119174,92637789841354},
+        url = 'https://raw.githubusercontent.com/chillguy4411/JJCZHub/refs/heads/main/script/CleanAllTheLeaves.lua',
+        name = '🍃 Clean all the Leaves'
+    },
 }
 
 local supportedGame = nil
