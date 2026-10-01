@@ -2,7 +2,6 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
--- ตรวจสอบว่าฟังก์ชัน identifyexecutor มีอยู่จริงในสภาพแวดล้อมนั้นหรือไม่
 if identifyexecutor then
     local executorName, executorVersion = identifyexecutor()
     if executorName and string.find(string.lower(executorName), "xeno") then
